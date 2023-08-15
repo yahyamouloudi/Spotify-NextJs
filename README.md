@@ -4,22 +4,22 @@
 <h2>Features:</h2>
 
 
-Song upload
-Tailwind design for sleek UI
-Tailwind animations and transition effects
-Full responsiveness for all devices
-Credential authentication with Supabase
-Github authentication integration
-File and image upload using Supabase storage
-Client form validation and handling using react-hook-form
-Server error handling with react-toast
-Play song audio
-Favorites system
-Playlists / Liked songs system
-Advanced Player component
-How to write POST, GET, and DELETE routes in route handlers (app/api)
-How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
-Handling relations between Server and Child components in a real-time environment
+Song upload<br/>
+Tailwind design for sleek UI<br/>
+Tailwind animations and transition effects<br/>
+Full responsiveness for all devices<br/>
+Credential authentication with Supabase<br/>
+Github authentication integration<br/>
+File and image upload using Supabase storage<br/>
+Client form validation and handling using react-hook-form<br/>
+Server error handling with react-toast<br/>
+Play song audio<br/>
+Favorites system<br/>
+Playlists / Liked songs system<br/>
+Advanced Player component<br/>
+How to write POST, GET, and DELETE routes in route handlers (app/api)<br/>
+How to fetch data in server React components by directly accessing the database <br/>
+Handling relations between Server and Child components in a real-time environment<br/>
 
 
 
